@@ -1,0 +1,5 @@
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Apresentation.App\bin\OAuthServer.Apresentation.App.dll.config
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Apresentation.App\bin\OAuthServer.Apresentation.App.dll
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Apresentation.App\bin\OAuthServer.Apresentation.App.pdb
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Apresentation.App\obj\Debug\OAuthServer.Apresentation.App.dll
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Apresentation.App\obj\Debug\OAuthServer.Apresentation.App.pdb

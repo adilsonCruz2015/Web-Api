@@ -1,0 +1,6 @@
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Resources\bin\Debug\OAuthServer.Resources.dll
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Resources\bin\Debug\OAuthServer.Resources.pdb
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Resources\obj\Debug\OAuthServer.Resources.AuthenticationResources.resources
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Resources\obj\Debug\OAuthServer.Resources.csproj.GenerateResource.Cache
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Resources\obj\Debug\OAuthServer.Resources.dll
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Resources\obj\Debug\OAuthServer.Resources.pdb

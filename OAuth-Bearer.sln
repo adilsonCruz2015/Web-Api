@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - OAuthServer.Api", "0 - OAuthServer.Api", "{BFE4F835-5A10-46CC-A83F-B384D3628D5B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - OAuthServer.Data", "1 - OAuthServer.Data", "{9396E8FA-27D2-43F9-BBE2-63F361BBCA6D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - OAuthServer.Domain.Test", "2 - OAuthServer.Domain.Test", "{30047371-F2BE-46E0-A789-20ADB71A797C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - OAuthServer.Utils", "4 - OAuthServer.Utils", "{658D428C-4BF8-4516-936F-7496A20619E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - OAuthServer.Domain", "3 - OAuthServer.Domain", "{8C1ABC77-7B3C-4928-BF70-D0B9828046CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthServer.Domain", "OAuthServer.Domain\OAuthServer.Domain.csproj", "{C5ADD0BD-25DA-472A-B99F-4416F4790864}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthServer.Utils", "OAuthServer.Utils\OAuthServer.Utils.csproj", "{915F47D1-6C84-4253-A52F-83F133176F49}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - OAuthServer.Resources", "5 - OAuthServer.Resources", "{08773D06-CF2E-4A49-AB13-179CA01E1B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthServer.Resources", "OAuthServer.Resources\OAuthServer.Resources.csproj", "{26F596CF-3386-48A8-B40A-D4AC6E89CC56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthServer.Data", "OAuthServer.Data\OAuthServer.Data.csproj", "{C39AFFE7-80E6-40C5-8E9E-4F5CF51BCFDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthServer.Api", "OAuthServer.Api\OAuthServer.Api.csproj", "{E881B66B-7C00-4E0C-96A6-5FCC1B691462}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - OAuthServer.Apresentation", "6 - OAuthServer.Apresentation", "{7229CFFF-5758-418A-8643-347B6C6436F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthServer.Apresentation.App", "OAuthServer.Apresentation.App\OAuthServer.Apresentation.App.csproj", "{FCF545AA-D4FB-4754-BA27-EB9FA3AEE1AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5ADD0BD-25DA-472A-B99F-4416F4790864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5ADD0BD-25DA-472A-B99F-4416F4790864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5ADD0BD-25DA-472A-B99F-4416F4790864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5ADD0BD-25DA-472A-B99F-4416F4790864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{915F47D1-6C84-4253-A52F-83F133176F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915F47D1-6C84-4253-A52F-83F133176F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915F47D1-6C84-4253-A52F-83F133176F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915F47D1-6C84-4253-A52F-83F133176F49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F596CF-3386-48A8-B40A-D4AC6E89CC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F596CF-3386-48A8-B40A-D4AC6E89CC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F596CF-3386-48A8-B40A-D4AC6E89CC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F596CF-3386-48A8-B40A-D4AC6E89CC56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C39AFFE7-80E6-40C5-8E9E-4F5CF51BCFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C39AFFE7-80E6-40C5-8E9E-4F5CF51BCFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C39AFFE7-80E6-40C5-8E9E-4F5CF51BCFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C39AFFE7-80E6-40C5-8E9E-4F5CF51BCFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E881B66B-7C00-4E0C-96A6-5FCC1B691462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E881B66B-7C00-4E0C-96A6-5FCC1B691462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E881B66B-7C00-4E0C-96A6-5FCC1B691462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E881B66B-7C00-4E0C-96A6-5FCC1B691462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF545AA-D4FB-4754-BA27-EB9FA3AEE1AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF545AA-D4FB-4754-BA27-EB9FA3AEE1AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF545AA-D4FB-4754-BA27-EB9FA3AEE1AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF545AA-D4FB-4754-BA27-EB9FA3AEE1AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C5ADD0BD-25DA-472A-B99F-4416F4790864} = {8C1ABC77-7B3C-4928-BF70-D0B9828046CC}
+		{915F47D1-6C84-4253-A52F-83F133176F49} = {658D428C-4BF8-4516-936F-7496A20619E6}
+		{26F596CF-3386-48A8-B40A-D4AC6E89CC56} = {08773D06-CF2E-4A49-AB13-179CA01E1B5C}
+		{C39AFFE7-80E6-40C5-8E9E-4F5CF51BCFDF} = {9396E8FA-27D2-43F9-BBE2-63F361BBCA6D}
+		{E881B66B-7C00-4E0C-96A6-5FCC1B691462} = {BFE4F835-5A10-46CC-A83F-B384D3628D5B}
+		{FCF545AA-D4FB-4754-BA27-EB9FA3AEE1AC} = {7229CFFF-5758-418A-8643-347B6C6436F7}
+	EndGlobalSection
+EndGlobal

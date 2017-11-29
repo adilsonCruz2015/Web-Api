@@ -1,0 +1,14 @@
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Data\bin\Debug\OAuthServer.Data.dll.config
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Data\bin\Debug\OAuthServer.Data.dll
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Data\bin\Debug\OAuthServer.Data.pdb
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Data\bin\Debug\EntityFramework.dll
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Data\bin\Debug\OAuthServer.Domain.dll
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Data\bin\Debug\OAuthServer.Domain.pdb
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Data\bin\Debug\EntityFramework.xml
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Data\obj\Debug\OAuthServer.Data.csprojResolveAssemblyReference.cache
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Data\obj\Debug\OAuthServer.Data.Migrations.Configuracoes_Iniciais.resources
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Data\obj\Debug\OAuthServer.Data.csproj.GenerateResource.Cache
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Data\obj\Debug\OAuthServer.Data.dll
+D:\Desenvolvimento\C#\Outh-Bearer\OAuthServer.Data\obj\Debug\OAuthServer.Data.pdb
